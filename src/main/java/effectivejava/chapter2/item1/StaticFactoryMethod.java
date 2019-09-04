@@ -1,4 +1,4 @@
-package effectivejava.chapter2;
+package effectivejava.chapter2.item1;
 
 import java.io.BufferedReader;
 import java.lang.reflect.Array;
@@ -15,7 +15,7 @@ import java.util.EnumSet;
  *
  * @author xuanjian
  */
-public class Item1 {
+public class StaticFactoryMethod {
 
     public static void main(String[] args) throws Throwable {
         // from类型转换方法
